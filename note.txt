@@ -1,0 +1,7 @@
+Nav bar => Transparent and does goes over the screen
+Box type container
+drop down of button click
+side bar
+
+
+In css : before hover , aafter hover etc
