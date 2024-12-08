@@ -24,5 +24,5 @@
 // console.log(undefined < 0);
 
 // ---- 
-
+// 
 console.log("2" === 2); // Strict Checking (===), will return false but on (==) it will return true.

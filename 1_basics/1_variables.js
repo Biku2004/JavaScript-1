@@ -11,3 +11,4 @@ console.log(accountId);
 console.table([accountId , emailId , password , accountState]);
 
 // Agar JavaScript me koi bhi variable declare karke leave(chaod) dete hai toh uska default value undefined hota hai print me.
+// 

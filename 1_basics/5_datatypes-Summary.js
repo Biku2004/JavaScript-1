@@ -7,7 +7,7 @@
 
         Broweser WebEvents
 */
-
+// 
 const score = 100;
 const scorevalue = 100.3;
 
