@@ -4,5 +4,36 @@
 
 // Object literals
 
-const JsUser = {}
+const mySymbol = Symbol("key1")
+
+const JsUser = {
+    name : 'Bikash',
+    email : 'bikash@gmail.com',
+    "full name" : "Bikash Behera",
+    lastLoginDAys : ['Monday','TuesDay'],
+    [mySymbol] : ['Symbol1'] , //Asscessing a Symbol use []
+}
+
+// console.log(JsUser['name']);
+// console.log(JsUser['email']);
+// console.log(JsUser[mySymbol]);
+// console.log(JsUser.name);
+// console.log(JsUser.email);
+
+
+// How to change values in the Obj
+// JsUser.email = 'newemail@gmail.com'
+// console.log(JsUser);
+
+// Freeze the object for no chnage
+// Object.freeze(JsUser)
+// JsUser.email = 'freeze@gmail.com'
+// console.log(JsUser);
+
+
+
+
+
+
+
 

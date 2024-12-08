@@ -1,4 +1,5 @@
-const Obj1 = new String("Bikash");
-console.log(Obj1.trimStart());
+function addTwo(num1,num2){
+    return (num1+num2);
+}
 
-// console.log(Obj1.__proto__);
+console.log(addTwo(1,2));
