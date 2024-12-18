@@ -22,7 +22,7 @@
 
 
     Falsy Values :
-        flase , 0 , -0 , BigInt 0n , "" , null , undefined , NaN
+        false , 0 , -0 , BigInt 0n , "" , null , undefined , NaN
         
     Truthy Values : 
         "0" , 'false' , " " (Space in between) , [] , {} , function(){}  -Empty Function
